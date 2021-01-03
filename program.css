@@ -1,0 +1,38 @@
+h1{
+    text-align: center;
+    color:white;
+    background-color: black;
+    width: 50%;
+    margin: 0 auto;
+}
+img{
+    width: 350px;
+    height: 300px;
+    margin: 40px;
+    padding: 20px;
+}
+.b{
+    margin: 0 auto;
+    
+}
+.c{
+    font-size: 5mm;
+    width: 400px;
+     float: left;
+     padding: 4px;
+     text-align: justify;
+     display: inline-block;
+}
+h3{
+    float: left;
+}
+
+    
+
+h2{
+    color: darkblue;
+}
+
+.tt{
+    border: 5px solid royalblue;
+}
